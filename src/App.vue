@@ -1,0 +1,10 @@
+<template lang="pug">
+RouterView
+</template>
+
+<script setup lang="ts">
+import { RouterView } from "vue-router";
+</script>
+
+<style lang="scss">
+</style>
